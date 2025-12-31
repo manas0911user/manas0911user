@@ -47,7 +47,8 @@ I believe consistent learning + small daily improvements matter more than overni
 
 ## 🧠 LeetCode Achievements:
 <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mt9405&border=no-border" alt="LeetCode Badges" />
+  
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=mt9405&animated=true" alt="LeetCode Badges" />
 </p>
 
 ---
