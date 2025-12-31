@@ -66,7 +66,7 @@ I believe consistent learning + small daily improvements matter more than overni
 </p>
 
 <br clear="right"/>
-
+ 
 
 ---
 
