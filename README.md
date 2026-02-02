@@ -30,7 +30,7 @@ I believe consistent learning + small daily improvements matter more than overni
 ---
 
 ## 💻 Tech Stack:
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ</h2>
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -67,7 +67,7 @@ I believe consistent learning + small daily improvements matter more than overni
 
 <br clear="right"/>
  
-
+</div>
 ---
 
 ## 🧠 LeetCode Achievements:
@@ -79,10 +79,14 @@ I believe consistent learning + small daily improvements matter more than overni
 ---
 
 ## 📊 GitHub Stats:
+
+<div align='centre'>
+  
 ![](https://github-readme-stats.vercel.app/api?username=manas0911user&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manas0911user&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manas0911user&theme=dark&hide_border=false&layout=compact)
-
+![snake gif](https://github.com/manas0911user/manas0911user/blob/output/github-snake-dark.svg)
+</div>
 ---
 
 ## 🔥 LeetCode Activity Heatmap:
